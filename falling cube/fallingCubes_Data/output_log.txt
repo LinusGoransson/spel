@@ -1,0 +1,61 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon (TM) R6 Graphics (ID=0x9874)
+    Vendor:   ATI
+    VRAM:     2267 MB
+    Driver:   15.201.1001.1006
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\T4\falling cube\fallingCubes_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\T4\falling cube\fallingCubes_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\T4\falling cube\fallingCubes_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\T4\falling cube\fallingCubes_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\T4\falling cube\fallingCubes_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\T4\falling cube\fallingCubes_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\T4\falling cube\fallingCubes_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\T4\falling cube\fallingCubes_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\T4\falling cube\fallingCubes_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\T4\falling cube\fallingCubes_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\T4\falling cube\fallingCubes_Data\Managed\LitJson.dll (this message is harmless)
+Loading C:\T4\falling cube\fallingCubes_Data\Managed\LitJson.dll into Unity Child Domain
+- Completed reload, in  0.330 seconds
+Platform assembly: C:\T4\falling cube\fallingCubes_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\T4\falling cube\fallingCubes_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.147974 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.478268 ms
+Platform assembly: C:\T4\falling cube\fallingCubes_Data\Managed\Mono.Security.dll (this message is harmless)
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 302.
+Total: 0.706587 ms (FindLiveObjects: 0.048730 ms CreateObjectMapping: 0.025647 ms MarkObjects: 0.600791 ms  DeleteObjects: 0.030135 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.605279 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 305.
+Total: 0.861113 ms (FindLiveObjects: 0.073095 ms CreateObjectMapping: 0.027571 ms MarkObjects: 0.748905 ms  DeleteObjects: 0.008976 ms)
+
+namn:aaasd
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.177859 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 346.
+Total: 0.686710 ms (FindLiveObjects: 0.053218 ms CreateObjectMapping: 0.027571 ms MarkObjects: 0.583479 ms  DeleteObjects: 0.019876 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.655292 ms
+
+Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 306.
+Total: 1.493323 ms (FindLiveObjects: 0.048730 ms CreateObjectMapping: 0.025647 ms MarkObjects: 0.566167 ms  DeleteObjects: 0.850854 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 670 -> priority: 1 
