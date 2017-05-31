@@ -51,9 +51,6 @@
      <Compile Include="Assets\Script\Fiender\Fiende3.cs" />
      <Compile Include="Assets\Script\Fiender\Fiende4.cs" />
      <Compile Include="Assets\Script\Fiender\Spawner.cs" />
-     <Compile Include="Assets\Script\Fiender\Spawner2.cs" />
-     <Compile Include="Assets\Script\Fiender\Spawner3.cs" />
-     <Compile Include="Assets\Script\Fiender\Spawner4.cs" />
      <Compile Include="Assets\Script\Meny\Meny.cs" />
      <Compile Include="Assets\Script\Scoreboard.cs" />
      <Compile Include="Assets\Script\Spelare\GameOver.cs" />

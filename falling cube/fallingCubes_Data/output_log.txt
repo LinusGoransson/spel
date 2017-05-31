@@ -19,7 +19,7 @@ Platform assembly: C:\T4\falling cube\fallingCubes_Data\Managed\UnityEngine.Play
 Loading C:\T4\falling cube\fallingCubes_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
 Platform assembly: C:\T4\falling cube\fallingCubes_Data\Managed\LitJson.dll (this message is harmless)
 Loading C:\T4\falling cube\fallingCubes_Data\Managed\LitJson.dll into Unity Child Domain
-- Completed reload, in  0.330 seconds
+- Completed reload, in  0.299 seconds
 Platform assembly: C:\T4\falling cube\fallingCubes_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\T4\falling cube\fallingCubes_Data\Managed\System.dll (this message is harmless)
 desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
@@ -27,35 +27,41 @@ desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
 XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 2.147974 ms
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 10.478268 ms
-Platform assembly: C:\T4\falling cube\fallingCubes_Data\Managed\Mono.Security.dll (this message is harmless)
-
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 302.
-Total: 0.706587 ms (FindLiveObjects: 0.048730 ms CreateObjectMapping: 0.025647 ms MarkObjects: 0.600791 ms  DeleteObjects: 0.030135 ms)
-
-Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.605279 ms
-
-Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 305.
-Total: 0.861113 ms (FindLiveObjects: 0.073095 ms CreateObjectMapping: 0.027571 ms MarkObjects: 0.748905 ms  DeleteObjects: 0.008976 ms)
-
-namn:aaasd
+UnloadTime: 5.495643 ms
+namn:Linustest
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 1.177859 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.371125 ms
 
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 346.
-Total: 0.686710 ms (FindLiveObjects: 0.053218 ms CreateObjectMapping: 0.027571 ms MarkObjects: 0.583479 ms  DeleteObjects: 0.019876 ms)
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 346.
+Total: 0.670685 ms (FindLiveObjects: 0.078225 ms CreateObjectMapping: 0.031418 ms MarkObjects: 0.516799 ms  DeleteObjects: 0.026288 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.975250 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 346.
+Total: 1.342652 ms (FindLiveObjects: 0.179533 ms CreateObjectMapping: 0.042959 ms MarkObjects: 1.099000 ms  DeleteObjects: 0.016029 ms)
 
 Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.655292 ms
+UnloadTime: 1.139395 ms
 
 Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 306.
-Total: 1.493323 ms (FindLiveObjects: 0.048730 ms CreateObjectMapping: 0.025647 ms MarkObjects: 0.566167 ms  DeleteObjects: 0.850854 ms)
+Total: 2.335856 ms (FindLiveObjects: 0.087201 ms CreateObjectMapping: 0.046806 ms MarkObjects: 0.661067 ms  DeleteObjects: 1.537574 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.404848 ms
+Platform assembly: C:\T4\falling cube\fallingCubes_Data\Managed\Mono.Security.dll (this message is harmless)
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 303.
+Total: 0.900872 ms (FindLiveObjects: 0.075660 ms CreateObjectMapping: 0.026929 ms MarkObjects: 0.771993 ms  DeleteObjects: 0.023724 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.138113 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 306.
+Total: 1.190049 ms (FindLiveObjects: 0.087201 ms CreateObjectMapping: 0.043600 ms MarkObjects: 1.042575 ms  DeleteObjects: 0.012182 ms)
 
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 670 -> priority: 1 
+  Thread -> id: 15ec -> priority: 1 
